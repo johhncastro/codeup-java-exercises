@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MethodExercises {
+public class MethodsExercises {
 
 
     public static void divide(int num1, int num2){
