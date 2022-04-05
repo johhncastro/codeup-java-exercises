@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package util;
+
 import java.util.Scanner;
 
 class Input{
