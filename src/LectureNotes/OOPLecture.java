@@ -1,3 +1,5 @@
+package LectureNotes;
+
 class Post{
     public String author;
     public String title;

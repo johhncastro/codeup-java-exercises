@@ -1,3 +1,5 @@
+package LectureNotes;
+
 public class SyntaxTypesAndVariableLecture {
     public static void main(String[] args){
 

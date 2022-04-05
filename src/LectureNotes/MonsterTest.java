@@ -1,3 +1,7 @@
+package LectureNotes;
+
+import LectureNotes.Monster;
+
 public class MonsterTest {
     public static void main(String[] args) {
         Monster orc = new Monster("Orc", 13, 15, 9);

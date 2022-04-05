@@ -1,3 +1,5 @@
+package LectureNotes;
+
 import java.util.Scanner;
 
 public class JavaWarmups {

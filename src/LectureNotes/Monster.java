@@ -1,3 +1,5 @@
+package LectureNotes;
+
 public class Monster {
     private int armorClass;
     private int hitPoints;
