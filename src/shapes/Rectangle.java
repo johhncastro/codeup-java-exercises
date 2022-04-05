@@ -4,6 +4,8 @@ public class Rectangle {
     protected int width;
     protected int length;
 
+    public Rectangle(){}
+
     public Rectangle(int width, int length) {
         this.width = width;
         this.length = length;
