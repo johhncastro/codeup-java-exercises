@@ -52,5 +52,8 @@ public class Monster {
         return this.name + " hit " + opponent.name + " for " + this.damage + " points of damage.\n" +
                 opponent.name + " now has " + opponent.hitPoints + " hit points left." ;
     }
+    public String toString(){
+        return name;
+    }
 }
 
