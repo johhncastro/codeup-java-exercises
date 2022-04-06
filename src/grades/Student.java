@@ -27,8 +27,8 @@ public class Student {
     // to get the grade avg we are making a for loop to loop through the arrayList and we
     public double getGradeAverage(){
         double gradeTotal = 0;
-        for (int i = 0; i < grades.size(); i++) {
-            gradeTotal += this.grades.get(i);
+        for (Integer grade : grades) {
+            gradeTotal += grade;
         }
         return gradeTotal / this.grades.size();
     }
